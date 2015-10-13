@@ -19,6 +19,8 @@ describe('ForecastWeather Public API Test',function() {
     // console.log('initialize');
   });
   beforeEach(function () {
+
+    
     //console.log('initialize each test');
   });
 
